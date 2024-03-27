@@ -1,0 +1,2 @@
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QThe dark forest attempts to provide a solution for the fermi paradox.\\E$"}
+{"rule":"EN_WORD_COHERENCY","sentence":"^\\QThe dark forest hypothesis states that many civilisations exist\\E$"}
